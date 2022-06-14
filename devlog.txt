@@ -1,0 +1,22 @@
+updates
+-----------------
+
+date: 06/13/2022
+to-do list:
+  - create classes
+  - template relationships
+  - create v0 (with the above)
+what did i do:
+  - create framework for items and player
+  - compiling code
+what do i need to do:
+  - work on relationship between items (subclasses)
+
+
+
+template:
+-----------------
+date:
+to-do list:
+what did i do:
+what do i need to do:
